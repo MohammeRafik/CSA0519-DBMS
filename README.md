@@ -5,4 +5,5 @@
 [EXP_1 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/experiment_1.txt)
 
 
-![OUTPUT]([image](https://user-images.githubusercontent.com/113301943/191447475-c3c3fce5-970e-4d8d-8107-cd586bdd0995.png)
+[OUTPUT 1](![image](https://user-images.githubusercontent.com/113301943/191448967-1391d22c-9cd0-4ffa-995b-7515017ccbcd.png)
+)
