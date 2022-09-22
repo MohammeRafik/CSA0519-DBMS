@@ -119,6 +119,46 @@
 ![image](https://user-images.githubusercontent.com/113301943/191541706-08579183-7df1-480f-95c4-a59c6fa5d47b.png)
 
 
+## EXPERIMENT 11
+
+[EX_11 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment%2011.txt)
+
+(![image](https://user-images.githubusercontent.com/113301943/191716821-0b757585-8add-44b1-a17d-585fcb5426ad.png))
+
+(![image](https://user-images.githubusercontent.com/113301943/191716934-ea7f28d7-cd84-4231-8ad2-b419aae48739.png))
+
+## EXPERIMENT 12
+
+[EX_12 WORKSHEET] (https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment%2012.txt)
+
+
+(![image](https://user-images.githubusercontent.com/113301943/191717325-cc1eda33-9233-46d1-8dbb-1ad3d363a529.png))
+
+(![image](https://user-images.githubusercontent.com/113301943/191717428-5d03e885-b65f-4314-a716-f10f1e9decc4.png))
+
+
+## EXPERIMENT 13
+
+[EX_13 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment%20-13.txt)
+
+
+(![image](https://user-images.githubusercontent.com/113301943/191717736-daa4c1e0-d547-487b-9126-de0a254f9dd4.png))
+
+## EXPERIMENT 14
+
+[EX_14 WPRKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment%2014.txt)
+
+
+(![image](https://user-images.githubusercontent.com/113301943/191718023-bb554a5f-0284-4edf-846a-5c85c58c2d4c.png))
+
+
+## EXPERIMENT 15
+
+[EX_15 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment-15.txt)
+
+
+(![image](https://user-images.githubusercontent.com/113301943/191718408-2671859e-9c2b-4f22-9445-db4a6ac9d0e3.png))
+
 
 
 
