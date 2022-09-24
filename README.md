@@ -179,5 +179,60 @@
 
 (![image](https://user-images.githubusercontent.com/113301943/191771430-505fe05a-cc4d-4e66-8cff-1db5eb0b3e07.png))
 
+## EXPERIMENT-19
+
+[EX_19 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment-19.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192078739-06266f52-44af-43d6-b230-0b83f9d9214b.png)
+
+## EXPERIMENT-20
+
+[EX_20 WORKSHEEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/Experiment-20.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192078793-5155504f-005f-40bf-baae-811c75872db6.png)
+
+## EXPERIMENT-21
+
+[EX_21 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPERIMENT%2021.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192078828-1acad0e3-a472-4399-8f7d-41f59447d623.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192078832-1c8756a3-2d3f-4d71-a783-90b93ffb0e4d.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192078842-7e11cee0-7887-416b-8c28-dc4ac1727dc2.png)
+
+## EXPERIMENT-22 
+[EX_22 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPT%2022.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192078883-30bd0832-1ca3-434d-8c86-4b700d8323d7.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192078899-a980280a-4953-41eb-b95f-f0727fbe80f4.png)
+
+## EXPERIMENT-233
+
+[EX_23 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPT%2023.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192078938-31f28a31-a5b6-4fe5-9001-ee7c3d094962.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192078954-b67f8b6f-731f-464b-a939-901eb8b9b381.png)
+
+## EXPERIMENT-24
+
+[EX_24 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPT%2024.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192079001-416ce347-abaf-4ec6-a8b4-270f731fd452.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192079015-3409595b-d436-4586-81a8-dc8ce985faf9.png)
+
+## EXPERIMENT-25
+
+[EX-25 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPT%2025.txt)
+
+![image](https://user-images.githubusercontent.com/113301943/192079057-bf2d33d6-366a-4e52-8c39-4e26af2973b1.png)
+
+![image](https://user-images.githubusercontent.com/113301943/192079075-c02dc14d-77f0-487e-872a-4740fa089d83.png)
+
+
+
 
 
