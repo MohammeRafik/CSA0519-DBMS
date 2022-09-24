@@ -208,7 +208,7 @@
 
 ![image](https://user-images.githubusercontent.com/113301943/192078899-a980280a-4953-41eb-b95f-f0727fbe80f4.png)
 
-## EXPERIMENT-233
+## EXPERIMENT-23
 
 [EX_23 WORKSHEET](https://github.com/MohammeRafik/CSA0519-DBMS/blob/main/EXPT%2023.txt)
 
